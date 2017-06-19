@@ -7,6 +7,11 @@ import android.view.View;
 import com.southernbox.sectionprogressbar.R;
 import com.southernbox.sectionprogressbar.widget.SectionProgressBar;
 
+/**
+ * Created by SouthernBox on 2016/12/30 0030.
+ * 主页面
+ */
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private SectionProgressBar sectionProgressBar;

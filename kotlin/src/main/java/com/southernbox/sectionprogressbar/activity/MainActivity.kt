@@ -3,11 +3,14 @@ package com.southernbox.sectionprogressbar.activity
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.View
-
 import com.southernbox.sectionprogressbar.R
 import com.southernbox.sectionprogressbar.widget.SectionProgressBar
-
 import kotlinx.android.synthetic.main.activity_main.*
+
+/**
+ * Created by SouthernBox on 2017/06/19 0030.
+ * 主页面
+ */
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 

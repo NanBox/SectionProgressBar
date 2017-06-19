@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import com.southernbox.sectionprogressbar.R;
 
 /**
- * Created by nanquan.lin on 2016/12/30 0030.
+ * Created by SouthernBox on 2016/12/30 0030.
  * 带节点的进度条控件
  */
 

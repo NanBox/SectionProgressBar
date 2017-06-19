@@ -9,7 +9,7 @@ import com.southernbox.sectionprogressbar.R
 import kotlinx.android.synthetic.main.layout_section_progress.view.*
 
 /**
- * Created by nanquan.lin on 2016/12/30 0030.
+ * Created by SouthernBox on 2017/06/19 0030.
  * 带节点的进度条控件
  */
 
