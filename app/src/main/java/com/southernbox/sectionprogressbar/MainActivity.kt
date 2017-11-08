@@ -1,10 +1,8 @@
-package com.southernbox.sectionprogressbar.activity
+package com.southernbox.sectionprogressbar
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.View
-import com.southernbox.sectionprogressbar.R
-import com.southernbox.sectionprogressbar.widget.SectionProgressBar
 import kotlinx.android.synthetic.main.activity_main.*
 
 /**
